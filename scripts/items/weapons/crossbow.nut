@@ -16,9 +16,9 @@ this.crossbow <- this.inherit("scripts/items/weapons/weapon", {
 	{
 		this.weapon.create();
 		this.m.ID = "weapon.crossbow";
-		this.m.Name = "Crossbow";
-		this.m.Description = "A pull-lever crossbow that can propel bolts over medium distances. Effective even in the hands of laymen, but requires almost a full turn to reload.";
-		this.m.Categories = "Crossbow, Two-Handed";
+		this.m.Name = "Arbalète";
+		this.m.Description = "Une arbalète à levier qui peut propulser des carreaux sur de moyennes distances. Efficace même entre les mains de novices, mais nécessite presque un tour complet pour être rechargée.";
+		this.m.Categories = "Arbalète, Deux Mains";
 		this.m.IconLarge = "weapons/ranged/crossbow_01.png";
 		this.m.Icon = "weapons/ranged/crossbow_01_70x70.png";
 		this.m.SlotType = this.Const.ItemSlot.Mainhand;
@@ -57,7 +57,7 @@ this.crossbow <- this.inherit("scripts/items/weapons/weapon", {
 				id = 10,
 				type = "text",
 				icon = "ui/tooltips/warning.png",
-				text = "[color=" + this.Const.UI.Color.NegativeValue + "]Must be reloaded before firing again[/color]"
+				text = "[color=" + this.Const.UI.Color.NegativeValue + "]Doit être rechargé avant de tirer à nouveau[/color]"
 			});
 		}
 
