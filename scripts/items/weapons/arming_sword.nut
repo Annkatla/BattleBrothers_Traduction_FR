@@ -4,9 +4,9 @@ this.arming_sword <- this.inherit("scripts/items/weapons/weapon", {
 	{
 		this.weapon.create();
 		this.m.ID = "weapon.arming_sword";
-		this.m.Name = "Arming Sword";
-		this.m.Description = "A lightweight, straight sword suitable for slashing, thrusting and swinging.";
-		this.m.Categories = "Sword, One-Handed";
+		this.m.Name = "Épée cruciforme";
+		this.m.Description = "Une épée, droite et légère, adaptée aux frappes de taille, d'estoc ou pour trancher.";
+		this.m.Categories = "Épée, Une Main";
 		this.m.IconLarge = "weapons/melee/sword_02.png";
 		this.m.Icon = "weapons/melee/sword_02_70x70.png";
 		this.m.SlotType = this.Const.ItemSlot.Mainhand;
