@@ -7,20 +7,20 @@ gt.Const.FactionArchetypes <- [
 				this.Const.FactionTrait.Warmonger,
 				this.Const.FactionTrait.ManOfThePeople
 			],
-			Description = "The house of %noblehousename% revolves around a religious cult that teaches compassion towards their own but turned them zealous and unforgiving towards their foes. Generations ago, a large orc invasion pillaged and destroyed most of what belonged to the family, and it never fully recovered. Since then, the house started many a crusade and punitive expedition deep into orc lands but never managed to drive the greenskins off for good.",
+			Description = "La maison %noblehousename% pivote autour d\'un culte religieux qui enseigne la compassion envers les siens mais qui les rend zélés et impitoyables envers leurs ennemis. Il y a des générations, une vaste invasion orque a pillé et détruit la plupart des biens de la famille, qui ne s\'en est jamais vraiment remise. Depuis lors, la maison a lancé de nombreuses croisades et expéditions punitives dans les terres orques, mais n\'a jamais réussi à chasser définitivement les peaux vertes.",
 			Mottos = [
-				"Virtue is the only nobility",
-				"In defence of the distressed",
-				"Zeal and honour",
-				"Noble in anger",
-				"Cleansed by the flame",
-				"Peace is obtained by war",
-				"While we have breath we hope",
-				"Boldly and honourably",
-				"We scorn to change or to fear",
-				"Victory is in truth",
-				"Light in Darkness",
-				"One heart, one way"
+				"La vertu est l\'unique noblesse",
+				"Pour la défense de ceux en détresse",
+				"Zèle et honneur",
+				"Noble en colère",
+				"Purifiés par la flamme",
+				"La paix s\'obtient par la guerre",
+				"Tant que nous respirons, nous gardons espoir",
+				"Audace et honneur",
+				"Nous méprisons le changement ou la peur",
+				"La victoire est dans la vérité",
+				"Lumière dans les ténèbres",
+				"Un cœur, une voie"
 			]
 		},
 		{
@@ -29,22 +29,22 @@ gt.Const.FactionArchetypes <- [
 				this.Const.FactionTrait.Sheriff,
 				this.Const.FactionTrait.ManOfThePeople
 			],
-			Description = "The house of %noblehousename% holds high the principles of justice and honor, and without irrational rulings their region has prospered. Their reputation may be peaceful, but %noblehousename% knights are battle-hardened and their troops will ferociously fight anyone threatening their realm, subordinates or principles. Many nobles envy their wealth and ridicule their principles; house %othernoblehouse% especially holds a more or less overt grudge against those of %noblehousename%.",
+			Description = "La maison %noblehousename% défend les principes de justice et d\'honneur, et sans règles irrationnelles, sa région a prospéré. Leur réputation peut être pacifique, mais les chevaliers de %noblehousename% sont aguerris au combat et leurs troupes combattent férocement toute personne menaçant leur domaine, leurs sujets ou leurs principes. De nombreux nobles envient leurs richesses et se moquent de leurs principes. La maison %othernoblehouse%, en particulier, garde une rancune plus ou moins ouverte contre ceux de %noblehousename%.",
 			Mottos = [
 				"Live that you may live",
-				"Friendship without deceit",
-				"Dare to be wise",
-				"The brave always show mercy",
-				"A friend to a friend",
-				"This hand is hostile to tyrants",
-				"Irritate not the lion",
-				"An oak in aged strength",
-				"With heart and hand",
-				"Always watchful",
-				"Glory to the father",
-				"Virtue under strength",
-				"Prepared in either case",
-				"Not for ourselves alone"
+				"Amitié sans tromperie",
+				"Osez la sagesse",
+				"Les braves font toujours preuve de compassion",
+				"D\'un ami à un ami",
+				"Cette main est hostile aux tyrans",
+				"N\'agacez pas le lion",
+				"Un chêne dans la force de l\'âge",
+				"Avec cœur et main",
+				"Toujours vigilants",
+				"Gloire au père",
+				"La vertu sous la force",
+				"Préparé dans tous les cas",
+				"Pas seulement pour nous"
 			]
 		},
 		{
